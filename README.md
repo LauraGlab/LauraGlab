@@ -1,52 +1,26 @@
-# ![Your Banner](URL-to-your-banner-image)  
+<h1 align="center">Hi there 👋</h1>
+<p align="center">
+  I'm Laura, a passionate <strong>Front-End Developer</strong> and <strong>Web Designer</strong> dedicated to building responsive and user-friendly websites. I enjoy solving complex challenges with elegant code and designing experiences that delight users.
+</p>
 
-### Hello, I'm [Your Name] 👋  
+### 🛠️ Technologies & Tools
+<div>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
-Welcome to my GitHub profile! I am a passionate developer with expertise in **React**, **Blockchain**, **CSS**, and more. I love building projects that challenge me and help me grow in my skills. Feel free to explore my repositories and connect with me!
+### 📌 About Me
+- 🖥️ **Current Focus**: Enhancing user experience through sleek and responsive design.
+- 🌱 **Learning**: Exploring Next.js and Web Animations.
+- 🔧 **Passionate About**: Front-end development, UI/UX design, Blockchain and working on meaningful projects.
+- 🎯 **Looking For Opportunities**: To collaborate on open-source projects or exciting freelance gigs.
+- 📬 **Reach Me At**: [Your Email] | [LinkedIn](https://www.linkedin.com/in/laura-glab/).
 
----
+### 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraGlab)
 
-## 🚀 About Me
 
-- 🔭 I’m currently working on: [Your Current Project]
-- 🌱 I’m learning: Blockchain, React, and more
-- 👯 I’m looking to collaborate on: Open-source projects and exciting challenges
-- 🤔 I’m currently focusing on: Improving my portfolio, exploring new tech
-- 💬 Ask me about: React, CSS, Frontend Development, Blockchain
-- 📫 How to reach me: [Your Email] or [LinkedIn Profile]
 
----
-
-## 🛠️ Skills
-
-- **Languages**: JavaScript, Python, HTML, CSS
-- **Frontend**: React, Redux, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express.js, Firebase
-- **Tools**: Git, GitHub, Visual Studio Code, Postman, Docker
-- **Blockchain**: Ethereum, Smart Contracts, Web3.js
-
----
-
-## 🔨 Projects
-
-Here are some of the projects I have worked on:
-
-- [**Project 1**](URL-to-your-project): Short description of your project and what technologies were used.
-- [**Project 2**](URL-to-your-project): Short description of another project.
-- [**Project 3**](URL-to-your-project): And another project description.
-
-You can explore all my projects in the [Repositories section](https://github.com/yourusername?tab=repositories).
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=radical)
-
----
-
-## 🤝 Let's Connect
-
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Portfolio](Link to your portfolio)
