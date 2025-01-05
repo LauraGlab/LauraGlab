@@ -1,7 +1,16 @@
-<h1 align="center">Hi there 👋</h1>
-<p align="center">
-  I'm Laura, a passionate <strong>Front-End Developer</strong> and <strong>Web Designer</strong> dedicated to building responsive and user-friendly websites. I enjoy solving complex challenges with elegant code and designing experiences that delight users.
+<p>
+  <img src="https://github.com/user-attachments/assets/e3484285-7498-4c6f-a63e-6cbb470f492a" alt="HiHeyGIF" width="150" height="150">
 </p>
+
+<p>✌️Hi, I'm <strong>Laura</strong>, a passionate <strong>Front-End Developer</strong> and <strong>Web Designer</strong> dedicated to building responsive and user-friendly websites. I enjoy solving complex challenges with elegant code and designing experiences that delight users.
+</p>
+<a href="https://www.linkedin.com/in/laura-glab/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+</a>
+<a href="glablaura@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-green?logo=gmail&style=for-the-badge" alt="Email">
+</a>
+
 
 ### 🛠️ Technologies & Tools
 <div>
@@ -12,12 +21,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-### 📌 About Me
-- 🖥️ **Current Focus**: Enhancing user experience through sleek and responsive design.
-- 🌱 **Learning**: Exploring Next.js and Web Animations.
-- 🔧 **Passionate About**: Front-end development, UI/UX design, Blockchain and working on meaningful projects.
-- 🎯 **Looking For Opportunities**: To collaborate on open-source projects or exciting freelance gigs.
-- 📬 **Reach Me At**: [Your Email] | [LinkedIn](https://www.linkedin.com/in/laura-glab/).
+### 🌟 What I'm Currently Focusing On
+  - **🌐 Master’s Thesis:** Investigating the use of blockchain technology for coffee supply chain traceability, enhancing transparency and accountability.
+  - **🛠️ Backend Development:** Expanding my expertise in Node.js to create robust and scalable applications.
+  - **🎨 UI/UX Design:** Refining my ability to design intuitive and visually engaging user experiences.
+  - **🤖 Artificial Intelligence:** Exploring how AI can be integrated into web applications to create smarter, more personalized user experiences.
+  - **📚 Emerging Technologies:** Staying up-to-date with innovations in blockchain, Web3, and cutting-edge tools shaping the future of tech.
+  - **...And finding a job 😜**
 
 ### 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraGlab)
