@@ -2,25 +2,25 @@
   <img src="/bannerGithub.png" alt="Header" width="100%">
 </p>
 
-<p>✌️Hi, I'm <strong>Laura</strong>, a passionate <strong>Front-End Developer</strong> and <strong>Web Designer</strong> dedicated to building responsive and user-friendly websites. I enjoy solving complex challenges with elegant code and designing experiences that delight users.
+### Hi, Stranger✌️
+<p>I'm <strong>Laura</strong>, a passionate <strong>Front-End Developer</strong> and <strong>Web Designer</strong> dedicated to building responsive and user-friendly websites. I enjoy solving complex challenges with elegant code and designing experiences that delight users.
 </p>
 <a href="https://www.linkedin.com/in/laura-glab/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-lightgray?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
 </a>
-<a href="glablaura@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-green?logo=gmail&style=for-the-badge" alt="Email">
+<a href="mailto:glablaura@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-lightgray?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
 </a>
 
 #### Portfolio website coming soon!
 
-
 ### ✨ Technologies & Tools
 <div>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=white&color=lightgray" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&color=lightgray" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=lightgray" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white&color=lightgray" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=lightgray" />
 </div>
 
 ### ✨ What I'm Currently Focusing On
