@@ -2,7 +2,7 @@
   <img src="/bannerGithub.png" alt="Header" width="100%">
 </p>
 
-### Hi, Stranger✌️
+### ✨ Hi, Stranger✌️
 <p>I'm <strong>Laura</strong>, a passionate <strong>Front-End Developer</strong> and <strong>Web Designer</strong> dedicated to building responsive and user-friendly websites. I enjoy solving complex challenges with elegant code and designing experiences that delight users.
 </p>
 <a href="https://www.linkedin.com/in/laura-glab/" target="_blank">
