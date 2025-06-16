@@ -1,38 +1,32 @@
-<p align="center">
-  <img src="/bannerGithub.png" alt="Header" width="100%">
-</p>
+<img src="https://i.imgur.com/TwojObrazek.png" width="150" align="right" />
 
-### ✨ Hi, Stranger✌️
-<p>I'm <strong>Laura</strong>, a passionate <strong>Front-End Developer</strong> and <strong>Web Designer</strong> dedicated to building responsive and user-friendly websites. I enjoy solving complex challenges with elegant code and designing experiences that delight users.
-</p>
+# Cześć! Nazywam się Laura (✿◡‿◡)
+
+- 💻 Aspiring Front-End / Web Designer
+- 🎓 Currently finishing my Master's degree in Food Technology
+- 💼 You can find some of my portfolio projects here on GitHub
+- 🌈 Pronouns: she/her
+
 <a href="https://www.linkedin.com/in/laura-glab/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-lightgray?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-F7CADF?logo=linkedin&logoColor=black&labelColor=000000&style=for-the-badge" alt="LinkedIn">
 </a>
+
 <a href="mailto:glablaura@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-lightgray?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact-F7CADF?logo=gmail&logoColor=black&labelColor=000000&style=for-the-badge" alt="Email">
 </a>
 
-#### Portfolio website coming soon!
+<hr/>
 
-### ✨ Technologies & Tools
+#### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraGlab&layout=compact&theme=default&bg_color=000000&title_color=F7CADF&text_color=F7CADF&icon_color=F7CADF)
+
+<hr/>
+
+#### Technologies & Tools
 <div>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=white&color=lightgray" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&color=lightgray" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=lightgray" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white&color=lightgray" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=lightgray" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=F7CADF" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7CADF" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=F7CADF" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=F7CADF" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F7CADF" />
 </div>
-
-### ✨ What I'm Currently Focusing On
-  - **Master’s Thesis:** Investigating the use of blockchain technology for coffee supply chain traceability, enhancing transparency and accountability.
-  - **Backend Development:** Expanding my expertise in Node.js to create robust and scalable applications.
-  - **UI/UX Design:** Refining my ability to design intuitive and visually engaging user experiences.
-  - **Artificial Intelligence:** Exploring how AI can be integrated into web applications to create smarter, more personalized user experiences.
-  - **Emerging Technologies:** Staying up-to-date with innovations in blockchain, Web3, and cutting-edge tools shaping the future of tech.
-  - **...And finding a job 😜**
-
-### ✨ GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraGlab)
-
-
-
