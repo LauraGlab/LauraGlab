@@ -7,13 +7,7 @@
 - 💼 You can find some of my portfolio projects here on GitHub
 - 🌈 Pronouns: she/her
 
-<a href="https://www.linkedin.com/in/laura-glab/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-F7CADF?logo=linkedin&logoColor=black&labelColor=000000&style=for-the-badge" alt="LinkedIn">
-</a>
-
-<a href="mailto:glablaura@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-F7CADF?logo=gmail&logoColor=black&labelColor=000000&style=for-the-badge" alt="Email">
-</a>
+<a href="https://www.linkedin.com/in/laura-glab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-F7CADF?logo=linkedin&logoColor=F7CADF&labelColor=000000&style=for-the-badge" alt="LinkedIn"></a><a href="mailto:glablaura@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-F7CADF?logo=gmail&logoColor=F7CADF&labelColor=000000&style=for-the-badge" alt="Email"></a>
 
 <hr/>
 
