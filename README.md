@@ -1,6 +1,6 @@
-<img src="https://i.imgur.com/TwojObrazek.png" width="150" align="right" />
+<img src="/readmeProfile.png" width="225" align="right" />
 
-# Cześć! Nazywam się Laura (✿◡‿◡)
+<p>Cześć! Nazywam się Laura (✿◡‿◡)</p>
 
 - 💻 Aspiring Front-End / Web Designer
 - 🎓 Currently finishing my Master's degree in Food Technology
