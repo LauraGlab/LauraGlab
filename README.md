@@ -1,4 +1,4 @@
-<img src="/readmeProfile.png" width="225" align="right" />
+<img src="/readmeProfile.png" width="200" align="right" />
 
 <p>Cześć! Nazywam się Laura (✿◡‿◡)</p>
 
