@@ -1,4 +1,4 @@
-# Cześć! Nazywam się Laura 👋🩷
+# Cześć! I'm Laura 👋🩷
 
 <img src="/readmeBanner.png"/>
 
