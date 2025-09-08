@@ -1,6 +1,6 @@
 # Cześć! I'm Laura 👋🩷
 
-<img src="/readmeBanner.png"/>
+<img src="/rmBanner.png"/>
 
 - 💻 Software Engineer & Front-End Developer
 - 🎓 MSc Student in Food Technology | Thesis project: <a href="https://cafechain.vercel.app/" target="_blank">CafeChain</a> – Blockchain for Product Life Cycle Traceability
