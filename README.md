@@ -3,7 +3,7 @@
 <img src="/readmeBanner.png"/>
 
 - 💻 Software Engineer & Front-End Developer
-- 🎓 Currently finishing my Master's degree in Food Technology
+- 🎓 MSc Student in Food Technology | Thesis project: <a href="https://cafechain.vercel.app/" target="_blank">CafeChain</a> – Blockchain for Product Life Cycle Traceability
 - 💼 You can find some of my portfolio projects here on GitHub
 - 🌈 Pronouns: she/her
 
