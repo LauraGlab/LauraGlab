@@ -1,9 +1,7 @@
 # Cześć! I'm Laura 👋🩷
 
-<img src="/rmBanner.png" alt="Banner" style="border-radius: 12px;">
-
-- 💻 **Software Engineer & Front-End Developer**
-- 🎓 **MSc Student in Food Technology** | Thesis project: [CafeChain](https://cafechain.vercel.app/) – Blockchain for Product Life Cycle Traceability
+- 💻 **UX/UI Designer & Front-End Developer**
+- 🎓 **MSc Student in Food Technology** | Thesis project: [CafeChain](https://cafechain.vercel.app/) - Blockchain for Product Life Cycle Traceability
 - 💼 You can find some of my portfolio projects here on GitHub
 - 🌸 [My portfolio](https://laura-glab.vercel.app/)
 - 🌈 Pronouns: she/her
