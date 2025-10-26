@@ -1,8 +1,8 @@
 # Cześć! I'm Laura 👋🩷
 
 💻 **UX/UI Designer & Front-End Developer**  
-🎨 I build web applications driven by a love for vibrant colors, interactive effects, and excellent user experiences.
-🌐 [Portfolio](https://laura-glab.vercel.app/) 
+🎨 I build web applications driven by a love for vibrant colors, interactive effects, and excellent user experiences.          
+🌐 [Portfolio](https://laura-glab.vercel.app/)                                                            
 🎓 MSc Student in Food Technology | Thesis: [CafeChain](https://cafechain.vercel.app/)  
 🌸 Pronouns: she/her
 
@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/laura-glab/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-FF77C0?logo=linkedin&logoColor=ffffff&style=for-the-badge" alt="LinkedIn">
 </a>
+
 <a href="mailto:glablaura@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact-FFB6C1?logo=gmail&logoColor=ffffff&style=for-the-badge" alt="Email">
 </a>
@@ -31,7 +32,7 @@
 ## Projects
 - **[CafeChain](https://cafechain.vercel.app/)** – Blockchain for Product Life Cycle Traceability (React, Solidity)  
 - **[CryptoCheck](https://github.com/LauraGlab/CryptoCheck)** – Real-time cryptocurrency dashboard (React, CoinGecko API)  
-- **[Attorney Website](https://github.com/LauraGlab/AttorneyWebsite](https://github.com/LauraGlab/MW-lawyer-website)** – Responsive web app for a law firm (React, CSS, SEO-friendly)
+- **[Attorney Website](https://github.com/LauraGlab/MW-lawyer-website)** – Responsive web app for a law firm (React, CSS, SEO-friendly)
 
 ---
 
