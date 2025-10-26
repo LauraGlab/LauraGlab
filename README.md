@@ -31,7 +31,7 @@
 ## Projects
 - **[CafeChain](https://cafechain.vercel.app/)** – Blockchain for Product Life Cycle Traceability (React, Solidity)  
 - **[CryptoCheck](https://github.com/LauraGlab/CryptoCheck)** – Real-time cryptocurrency dashboard (React, CoinGecko API)  
-- **[Attorney Website](https://github.com/LauraGlab/AttorneyWebsite)** – Responsive web app for a law firm (React, CSS, SEO-friendly)
+- **[Attorney Website](https://github.com/LauraGlab/AttorneyWebsite](https://github.com/LauraGlab/MW-lawyer-website)** – Responsive web app for a law firm (React, CSS, SEO-friendly)
 
 ---
 
