@@ -1,27 +1,39 @@
 # Cześć! I'm Laura 👋🩷
 
-- 💻 **UX/UI Designer & Front-End Developer**
-- 🎓 **MSc Student in Food Technology** | Thesis project: [CafeChain](https://cafechain.vercel.app/) - Blockchain for Product Life Cycle Traceability
-- 💼 You can find some of my portfolio projects here on GitHub
-- 🌸 [My portfolio](https://laura-glab.vercel.app/)
-- 🌈 Pronouns: she/her
+💻 **UX/UI Designer & Front-End Developer**  
+🎨 Tworzę aplikacje i interfejsy webowe z pasją do kolorów, efektów i przyjemnego UX  
+🌐 [Portfolio](https://laura-glab.vercel.app/) – glossy, interaktywne projekty  
+🎓 MSc Student in Food Technology | Thesis: [CafeChain](https://cafechain.vercel.app/)  
+🌸 Pronouns: she/her
+
+---
 
 <a href="https://www.linkedin.com/in/laura-glab/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-5a2d82?logo=linkedin&logoColor=f8d6ff&style=for-the-badge" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-FF77C0?logo=linkedin&logoColor=ffffff&style=for-the-badge" alt="LinkedIn">
 </a>
 <a href="mailto:glablaura@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-7e5ea8?logo=gmail&logoColor=f8d6ff&style=for-the-badge" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact-FFB6C1?logo=gmail&logoColor=ffffff&style=for-the-badge" alt="Email">
 </a>
+
+---
 
 ## Technologies & Tools
 <div>
-  <img src="https://img.shields.io/badge/React-3a1a4f?style=for-the-badge&logo=react&logoColor=f8d6ff" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-3a1a4f?style=for-the-badge&logo=javascript&logoColor=f8d6ff" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-3a1a4f?style=for-the-badge&logo=css3&logoColor=f8d6ff" alt="CSS" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3a1a4f?style=for-the-badge&logo=tailwind-css&logoColor=f8d6ff" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Figma-3a1a4f?style=for-the-badge&logo=figma&logoColor=f8d6ff" alt="Figma" />
+  <img src="https://img.shields.io/badge/React-FF77C0?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS-FF77C0?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS" />
+  <img src="https://img.shields.io/badge/TailwindCSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Figma-FF77C0?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma" />
 </div>
 
+---
+
+## Projects
+- **[CafeChain](https://cafechain.vercel.app/)** – Blockchain for Product Life Cycle Traceability (React, Solidity)  
+- **[CryptoCheck](https://github.com/LauraGlab/CryptoCheck)** – Real-time cryptocurrency dashboard (React, CoinGecko API)  
+- **[Attorney Website](https://github.com/LauraGlab/AttorneyWebsite)** – Responsive web app for a law firm (React, CSS, SEO-friendly)
+
+---
+
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraGlab&layout=compact&theme=default&bg_color=1b0b26&title_color=cbb4e9&text_color=f8ecff&icon_color=d25be8)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraGlab&layout=compact&theme=radical&bg_color=fff0f5&title_color=ff77c0&text_color=6b4b9e&icon_color=ffb6c1)
