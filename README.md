@@ -1,8 +1,8 @@
 # Cześć! I'm Laura 👋🩷
 
 💻 **UX/UI Designer & Front-End Developer**  
-🎨 Tworzę aplikacje i interfejsy webowe z pasją do kolorów, efektów i przyjemnego UX  
-🌐 [Portfolio](https://laura-glab.vercel.app/) – glossy, interaktywne projekty  
+🎨 I build web applications driven by a love for vibrant colors, interactive effects, and excellent user experiences.
+🌐 [Portfolio](https://laura-glab.vercel.app/) 
 🎓 MSc Student in Food Technology | Thesis: [CafeChain](https://cafechain.vercel.app/)  
 🌸 Pronouns: she/her
 
