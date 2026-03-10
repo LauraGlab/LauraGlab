@@ -1,6 +1,6 @@
 # Cześć! I'm Laura 👋🩷
 
-💻 **Front-End Developer (Working) & UX/UI Designer**  
+💻 **Front-End Developer (working) & UX/UI Designer (for fun)**  
 🎨 I build web applications driven by a love for vibrant colors, interactive effects, and excellent user experiences.          
 🌐 [Portfolio](https://laura-glab.vercel.app/)                                                            
 🎓 MSc Student in Food Technology | Thesis: [CafeChain](https://cafechain.vercel.app/)  
