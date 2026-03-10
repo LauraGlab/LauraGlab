@@ -1,6 +1,6 @@
 # Cześć! I'm Laura 👋🩷
 
-💻 **Front-End Developer & UX/UI Designer**  
+💻 **Front-End Developer (Working) & UX/UI Designer**  
 🎨 I build web applications driven by a love for vibrant colors, interactive effects, and excellent user experiences.          
 🌐 [Portfolio](https://laura-glab.vercel.app/)                                                            
 🎓 MSc Student in Food Technology | Thesis: [CafeChain](https://cafechain.vercel.app/)  
@@ -21,8 +21,3 @@
 - **[CafeChain](https://cafechain.vercel.app/)** – Blockchain for Product Life Cycle Traceability (React, Solidity)  
 - **[CryptoCheck](https://github.com/LauraGlab/CryptoCheck)** – Real-time cryptocurrency dashboard (React, CoinGecko API)  
 - **[Attorney Website](https://github.com/LauraGlab/MW-lawyer-website)** – Responsive web app for a law firm (React, CSS, SEO-friendly)
-
----
-
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraGlab&layout=compact&theme=radical&bg_color=fff0f5&title_color=ff77c0&text_color=6b4b9e&icon_color=ffb6c1)
